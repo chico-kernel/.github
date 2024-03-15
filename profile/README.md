@@ -1,2 +1,5 @@
 # Chico
-Chico aims to be a easy to use bootloader and kernel. Fully freestanding.
+A simple bootloader and kernel
+## Projects
+- [Chico Bootloader](https://github.com/chico-kernel/bootloader)
+- [Chico Kernel](https://github.com/chico-kernel/chico)
